@@ -1,0 +1,30 @@
+{
+  "name": "web-api",
+  "version": "1.0.0",
+  "description": "CCIYC Website API",
+  "main": "",
+  "scripts": {
+    "test": "echo \\\"no test defined\\\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choishunhim/cciyc_webapi.git"
+  },
+  "keywords": [
+    "CCIYC"
+  ],
+  "author": "Choi Shun Him",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choishunhim/cciyc_webapi/issues"
+  },
+  "homepage": "https://github.com/choishunhim/cciyc_webapi#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mssql": "^4.1.0"
+  }
+}
