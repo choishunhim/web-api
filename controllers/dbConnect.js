@@ -2,9 +2,9 @@
 //global config
 var dbIP = '192.168.2.61';
 var dbPort = 1433;
-var dbUser = 'uat';
-var dbPass = 'Ua_123456';
-var dbDefault = 'cciycdb';
+var dbUser = 'dev';
+var dbPass = 'Dev_123456';
+var dbDefault = 'devdb';
 var dbNamespace = 'dbo';
 
 // config database
