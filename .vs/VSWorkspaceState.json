@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\controllers",
+    "\\controllers\\sql",
+    "\\models",
     "\\routes"
   ],
-  "SelectedNode": "\\controllers\\dbConnect.js",
+  "SelectedNode": "\\controllers\\sql\\get_item_by_id.sql",
   "PreviewInSolutionExplorer": false
 }

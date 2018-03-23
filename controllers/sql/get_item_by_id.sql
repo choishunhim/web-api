@@ -1,0 +1,3 @@
+SELECT *
+FROM HTX_Item
+WHERE ID = @ID
