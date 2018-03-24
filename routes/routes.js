@@ -7,4 +7,7 @@ module.exports = function (app) {
 
     app.route('/items/:itemId')
         .get(Item.get_item_by_id);
+
+    app.route('/items/searchByTitle/:title')
+        .get(Item.get_item_by_title);
 };
